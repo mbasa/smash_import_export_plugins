@@ -5474,6 +5474,16 @@ class IEL {
       args: [],
     );
   }
+
+  /// `Import Settings from Geo Task Tracker Server`
+  String get importWidget_importFromGTT {
+    return Intl.message(
+      'Import Settings from Geo Task Tracker Server',
+      name: 'importWidget_importFromGTT',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<IEL> {

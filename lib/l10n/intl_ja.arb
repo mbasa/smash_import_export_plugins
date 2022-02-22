@@ -1038,6 +1038,7 @@
     "gttExport_notesUploadedToGttServer": "Notes uploaded to GTT Server",
     "gttExport_simpleLogsUpload": "GPS Logs Upload ",
     "gttExport_logsUploadedToGttServer": "Logs uploaded to GTT Server",
-    "exportWidget_exportToGTT": "Export to Geo Task Tracker Server"
+    "exportWidget_exportToGTT": "Export to Geo Task Tracker Server",
+    "importWidget_importFromGTT": "Import Settings from Geo Task Tracker Server"
 }
   

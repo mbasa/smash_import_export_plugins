@@ -249,6 +249,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "imageWidgets_loadingImage" : MessageLookupByLibrary.simpleMessage("Loading image…"),
     "images_loadingImage" : MessageLookupByLibrary.simpleMessage("Loading image…"),
     "importWidget_import" : MessageLookupByLibrary.simpleMessage("Import"),
+    "importWidget_importFromGTT" : MessageLookupByLibrary.simpleMessage("Import Settings from Geo Task Tracker Server"),
     "importWidget_importFromGeopaparazzi" : MessageLookupByLibrary.simpleMessage("Import from Geopaparazzi Survey Server"),
     "layersView_delete" : MessageLookupByLibrary.simpleMessage("Delete"),
     "layersView_fileFormatNotSUpported" : MessageLookupByLibrary.simpleMessage("File format not supported."),

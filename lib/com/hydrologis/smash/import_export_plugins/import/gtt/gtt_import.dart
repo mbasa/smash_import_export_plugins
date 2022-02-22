@@ -30,7 +30,7 @@ class GttImportPlugin extends AImportPlugin {
 
   @override
   String getDescription() {
-    return IEL.of(context).importWidget_importFromGeopaparazzi;
+    return IEL.of(context).importWidget_importFromGTT;
   }
 
   @override
